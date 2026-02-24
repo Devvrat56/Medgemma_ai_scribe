@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.xlsx
+transcript.txt
+*.pyc
+.vscode/
+.ipynb_checkpoints/

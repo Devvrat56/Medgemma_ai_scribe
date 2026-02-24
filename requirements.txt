@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+accelerate
+python-dotenv
+openpyxl
+librosa
+soundfile
+sentencepiece
+protobuf
+bitsandbytes
